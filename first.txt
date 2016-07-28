@@ -1,3 +1,7 @@
 apple
 banana
+<<<<<<< HEAD
 contour
+=======
+contour2
+>>>>>>> contour2
